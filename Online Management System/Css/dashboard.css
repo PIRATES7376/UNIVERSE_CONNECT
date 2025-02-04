@@ -1,0 +1,133 @@
+/* General body styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('../images/learning-background.jpg'); /* Background image */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    color: #fff;
+    background-attachment: fixed; /* Makes background fixed during scroll */
+}
+
+/* Dashboard container styles */
+.dashboard-container {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.7); /* Darker transparent background */
+    width: 80%;
+    margin: 50px auto;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10px); /* Adding blur effect for the background */
+}
+
+h1 {
+    font-size: 2.5em;
+    color: #FFD700; /* Gold color for better contrast */
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+/* Dashboard menu styles */
+.dashboard-menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.dashboard-menu ul li {
+    margin: 20px 0;
+    position: relative;
+}
+
+/* Add an icon and hover effect for each link */
+.dashboard-menu ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.3em;
+    padding: 15px 30px;
+    border: 2px solid #FFD700; /* Gold border */
+    border-radius: 50px;
+    background-color: transparent;
+    display: inline-block;
+    transition: all 0.3s ease;
+    font-weight: bold;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.dashboard-menu ul li a:hover {
+    background-color: #FFD700;
+    color: #000;
+    transform: scale(1.05); /* Slightly enlarge button on hover */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.dashboard-menu ul li a:before {
+    content: "\f0c0"; /* FontAwesome icon for user */
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    margin-right: 10px;
+    font-size: 1.5em;
+    transition: color 0.3s ease;
+}
+
+.dashboard-menu ul li a:hover:before {
+    color: #000;
+}
+
+.dashboard-menu ul li a:nth-child(2):before {
+    content: "\f040"; /* Edit icon */
+}
+
+.dashboard-menu ul li a:nth-child(3):before {
+    content: "\f02d"; /* Book icon */
+}
+
+.dashboard-menu ul li a:nth-child(4):before {
+    content: "\f067"; /* Plus icon */
+}
+
+.dashboard-menu ul li a:nth-child(5):before {
+    content: "\f2f5"; /* Logout icon */
+}
+
+/* Footer section */
+footer {
+    position: fixed;
+    bottom: 10px;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    font-size: 0.9em;
+}
+
+/* Adding a responsive layout */
+@media (max-width: 768px) {
+    .dashboard-container {
+        width: 90%;
+        padding: 30px;
+    }
+
+    h1 {
+        font-size: 2em;
+    }
+
+    .dashboard-menu ul li a {
+        font-size: 1em;
+        padding: 10px 20px;
+    }
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 1.8em;
+    }
+
+    .dashboard-menu ul li a {
+        font-size: 0.9em;
+        padding: 8px 16px;
+    }
+}

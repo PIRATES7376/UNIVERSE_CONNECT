@@ -1,0 +1,112 @@
+/* General body styling */
+body {
+    font-family: 'Verdana', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e8f5e9;  /* Light pastel green */
+    color: #333;
+    text-align: center;
+}
+
+/* Profile container */
+.profile-container {
+    background-color: #fff;
+    margin: 50px auto;
+    padding: 40px;
+    width: 80%;
+    max-width: 700px;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    border: 1px solid #e0e0e0;
+}
+
+/* Heading style */
+h1 {
+    font-size: 2.5em;
+    color: #388e3c; /* Soft green */
+    margin-bottom: 25px;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.05);
+}
+
+/* Profile information style */
+.profile-info p {
+    font-size: 1.3em;
+    margin: 15px 0;
+    line-height: 1.8;
+    color: #616161;
+}
+
+/* Emphasize labels with a softer color */
+.profile-info strong {
+    color: #2e7d32; /* A darker shade of green */
+}
+
+/* Style links as buttons */
+a {
+    color: #fff;
+    background-color: #388e3c; /* Green */
+    padding: 12px 25px;
+    text-decoration: none;
+    font-size: 1.2em;
+    border-radius: 30px;
+    margin-top: 20px;
+    display: inline-block;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+
+a:hover {
+    background-color: #66bb6a; /* Light green */
+    transform: scale(1.05);
+}
+
+/* Footer link for logout */
+a.logout {
+    background-color: #d32f2f; /* Red for logout */
+    margin-top: 15px;
+}
+
+a.logout:hover {
+    background-color: #f44336; /* Lighter red */
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .profile-container {
+        width: 90%;
+        padding: 30px;
+    }
+
+    h1 {
+        font-size: 2em;
+    }
+
+    .profile-info p {
+        font-size: 1.1em;
+    }
+
+    a {
+        font-size: 1.1em;
+        padding: 10px 20px;
+    }
+}
+
+@media (max-width: 480px) {
+    .profile-container {
+        width: 95%;
+        padding: 20px;
+    }
+
+    h1 {
+        font-size: 1.6em;
+    }
+
+    .profile-info p {
+        font-size: 1em;
+    }
+
+    a {
+        font-size: 1em;
+        padding: 8px 18px;
+    }
+}

@@ -1,0 +1,89 @@
+/* Reset default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #5f85c7;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styling */
+h2 {
+    text-align: center;
+    color: #f9f6f6;
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+/* Table Styling */
+table {
+    width: 80%;
+    margin: 40px auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+    border: 1px solid #b45858;
+}
+
+th {
+    background-color: #171616;
+}
+
+tr:hover {
+    background-color: #bc6767;
+}
+
+/* Button Styling */
+button {
+    width: 200px;
+    padding: 15px;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    display: block;
+    margin: 20px auto;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+a {
+    color: rgb(231, 17, 17);
+    text-decoration: none;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    h2 {
+        font-size: 24px;
+    }
+
+    table {
+        width: 100%;
+    }
+
+    th, td {
+        font-size: 14px;
+        padding: 8px;
+    }
+
+    button {
+        font-size: 16px;
+        padding: 10px;
+    }
+}

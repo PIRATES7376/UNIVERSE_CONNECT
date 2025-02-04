@@ -1,0 +1,91 @@
+/* General Body and Font Style */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+
+/* Heading Style */
+h2 {
+    font-size: 28px;
+    color: #0f2005;
+    margin-top: 20px;
+    text-align: center;
+}
+
+/* Container for the Course Blocks */
+div.course-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+/* Styling Each Course Block */
+.course-block {
+    background-color: #6b5252;
+    border-radius: 15px;
+    border: 1px solid #070707;
+    width: 300px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0px 4px 6px rgba(53, 13, 13, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Hover Effect for Each Course Block */
+.course-block:hover {
+    transform: scale(1.05);
+    box-shadow: 0px 8px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* Course Title Styling */
+.course-block h3 {
+    font-size: 20px;
+    color: #0fdf8c;
+    margin-bottom: 15px;
+}
+
+/* Course Description and Info Styling */
+.course-block p {
+    font-size: 14px;
+    color: #dc8f1afe;
+    margin-bottom: 10px;
+}
+
+/* Styling the Manage Course Button */
+.course-block button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+    transition: background-color 0.3s ease;
+}
+
+/* Hover Effect on Manage Course Button */
+.course-block button:hover {
+    background-color: #45a049;
+}
+
+/* Back Button Styling */
+button[type="button"] {
+    background-color: #ed0d0d;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+/* Hover Effect on Back Button */
+button[type="button"]:hover {
+    background-color: #d32f2f;
+}
