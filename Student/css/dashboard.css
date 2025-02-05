@@ -1,0 +1,59 @@
+/* Basic styles for the dashboard */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; /* Light background */
+}
+
+header {
+    background-color: #4CAF50; /* Green background */
+    color: white;
+    padding: 15px; /* Padding for header */
+    text-align: center; /* Center text */
+}
+
+.user-info {
+    display: flex;
+    justify-content: space-between; /* Space between welcome message and logout */
+    align-items: center; /* Center items vertically */
+    margin: 10px; /* Margin for user info */
+}
+
+.dashboard-content {
+    padding: 20px; /* Padding for main content */
+    text-align: center; /* Center text */
+}
+
+.card {
+    background-color: white; /* White background for cards */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    padding: 20px; /* Padding for card content */
+    margin: 10px; /* Margin around cards */
+    display: inline-block; /* Display cards inline */
+    width: 30%; /* Set width for cards */
+    vertical-align: top; /* Align cards to the top */
+}
+
+.card h3 {
+    margin-top: 0; /* Remove top margin for card headings */
+}
+
+.btn {
+    display: inline-block; /* Make buttons inline */
+    background-color: #4CAF50; /* Button background */
+    color: white; /* Button text color */
+    padding: 10px 15px; /* Padding for buttons */
+    border: none; /* Remove border */
+    border-radius: 5px; /* Rounded corners for buttons */
+    text-decoration: none; /* Remove underline */
+    margin-top: 10px; /* Space above button */
+}
+
+footer {
+    text-align: center; /* Center text in footer */
+    padding: 10px; /* Padding for footer */
+    background-color: #333; /* Dark background for footer */
+    color: white; /* White text for footer */
+}

@@ -1,0 +1,308 @@
+{
+    "username": "Bushra",
+    "password": "",
+    "email": "",
+    "Phone_Number": null,
+    "Permanent_Address": null,
+    "Present_Address": null,
+    "0": {
+        "username": "Bushra",
+        "email": "tahiyatbushra04@aiub.edu",
+        "password": "$2y$10$Yh1ZKmu\/oA5ZCtASPXSOqepPzilwkNcPbH9WIbZije3C1DgXyQg96",
+        "gender": "female",
+        "present_address": "asdfghh",
+        "phone_number": "0912345678",
+        "course": "physics"
+    },
+    "1": {
+        "username": "Bushra",
+        "email": "tahiyatbushra04@aiub.edu",
+        "password": "123456",
+        "gender": "female",
+        "present_address": "asdfghh",
+        "phone_number": "0912345678",
+        "course": "physics"
+    },
+    "2": {
+        "username": "Bushra",
+        "email": "tahiyatbushra04@aiub.edu",
+        "password": "1234",
+        "gender": "female",
+        "present_address": "asdfhj",
+        "phone_number": "0912345678",
+        "course": "physics"
+    },
+    "3": {
+        "username": "Bushra",
+        "password": "1234",
+        "gender": "female",
+        "Address": null,
+        "Phone_Number": null,
+        "email": "tahiyatbushra04@aiub.edu",
+        "course": "physics"
+    },
+    "4": {
+        "username": "Bushra",
+        "password": "1234",
+        "gender": "female",
+        "Address": null,
+        "Phone_Number": null,
+        "email": "tahiyatbushra04@aiub.edu",
+        "course": "physics"
+    },
+    "5": {
+        "username": "Bushra",
+        "password": "$2y$10$zL4niIMSlfEVmF0YB\/G7rOg2\/urRRvJtE31fW4.Eg69.9JPjUEQ8y",
+        "gender": "female",
+        "present_address": "asdfg",
+        "phone_number": "0912345678",
+        "email": "tahiyatbushra04@aiub.edu",
+        "course": "physics"
+    },
+    "6": {
+        "username": "Bushra",
+        "password": "$2y$10$Wam2OGrVRueeNcfthZnXwOlEcfedj8pYlSGnF6SvRJX9f\/Kp8\/bcG",
+        "gender": "female",
+        "present_address": "asdfg",
+        "phone_number": "0912345678",
+        "email": "tahiyatbushra04@aiub.edu",
+        "course": "physics"
+    },
+    "7": {
+        "username": "Bushra",
+        "password": "$2y$10$rHF03S03OMTWWmasM42SBuAHlIvyX.Ty1aqZRF8ssmvU4c4h4T2rm",
+        "gender": "female",
+        "present_address": "asdfg",
+        "phone_number": "0912345678",
+        "email": "tahiyatbushra04@aiub.edu",
+        "course": "physics"
+    },
+    "8": {
+        "username": "Bushra",
+        "password": "1234",
+        "gender": "female",
+        "present_address": "asdfg",
+        "phone_number": "0912345678",
+        "email": "tahiyatbushra04@aiub.edu",
+        "course": "physics"
+    },
+    "9": {
+        "username": "Bushra",
+        "password": "1234",
+        "gender": "female",
+        "present_address": null,
+        "phone_number": null,
+        "email": "tahiyatbushra04@aiub.edu",
+        "course": "physics"
+    },
+    "10": {
+        "username": "Bushra",
+        "password": "1234",
+        "gender": "female",
+        "present_address": null,
+        "phone_number": null,
+        "email": "tahiyatbushra04@aiub.edu",
+        "course": "physics"
+    },
+    "11": {
+        "username": "Bushra",
+        "password": "$2y$10$BGwtoH7SmbDnE5abHqd\/Su3CnxP9.JhTLFhXFGTtYCGqrw\/nu\/cGW",
+        "gender": "female",
+        "present_address": "nmbv",
+        "phone_number": "0912345678",
+        "email": "tahiyatbushra04@aiub.edu",
+        "course": "physics"
+    },
+    "12": {
+        "username": "Bushra",
+        "password": "$2y$10$pwZSvMZ1nXFbIGCG6mGYKedNflW40d4ERG7g\/GJkm4mGxKACEykI6",
+        "gender": "female",
+        "present_address": "nmbv",
+        "phone_number": "0912345678",
+        "email": "tahiyatbushra04@aiub.edu",
+        "course": "physics"
+    },
+    "13": {
+        "username": "Bushra",
+        "password": "1234",
+        "0": "2y",
+        "gender": "female",
+        "present_address": "nmbv",
+        "phone_number": "0912345678",
+        "email": "tahiyatbushra04@aiub.edu",
+        "course": "physics"
+    },
+    "14": {
+        "username": "Bushra",
+        "password": "1234",
+        "0": "2y",
+        "gender": "female",
+        "present_address": "nmbv",
+        "phone_number": "0912345678",
+        "email": "tahiyatbushra04@aiub.edu",
+        "course": "physics"
+    },
+    "15": {
+        "username": "Bushra",
+        "password": "1234",
+        "0": "2y",
+        "gender": "female",
+        "present_address": "nmbv",
+        "phone_number": "0912345678",
+        "email": "tahiyatbushra04@aiub.edu",
+        "course": "physics"
+    },
+    "16": {
+        "username": "Bushra",
+        "password": "123456",
+        "gender": "female",
+        "present_address": "nnnnnnnn",
+        "phone_number": "0912345678",
+        "email": "tahiyatbushra04@aiub.edu",
+        "course": "physics"
+    },
+    "17": {
+        "username": "Bushra",
+        "password": "1234",
+        "gender": "female",
+        "present_address": "Narayanganj",
+        "phone_number": "0912345678",
+        "email": "tahiyatbushra04@aiub.edu",
+        "course": "physics"
+    },
+    "18": {
+        "username": "Bushra",
+        "password": "1234",
+        "gender": "female",
+        "present_address": "Narayanganj",
+        "phone_number": "0912345678",
+        "email": "tahiyatbushra04@aiub.edu",
+        "course": "physics"
+    },
+    "19": {
+        "username": "Bushra",
+        "password": "1234",
+        "gender": "female",
+        "present_address": "Narayanganj",
+        "phone_number": "0912345678",
+        "email": "tahiyatbushra04@aiub.edu",
+        "course": "physics"
+    },
+    "20": {
+        "username": "Bushra",
+        "password": "1234",
+        "gender": "female",
+        "present_address": "Narayanganj",
+        "phone_number": "0912345678",
+        "email": "tahiyatbushra04@aiub.edu",
+        "course": "physics"
+    },
+    "21": {
+        "username": "Bushra",
+        "password": "1234",
+        "gender": "female",
+        "present_address": "Narayanganj",
+        "phone_number": "0912345678",
+        "email": "tahiyatbushra04@aiub.edu",
+        "course": "physics"
+    },
+    "22": {
+        "username": "Bushra",
+        "password": "1234",
+        "gender": "female",
+        "present_address": "vjfjjf",
+        "phone_number": "0912345678",
+        "email": "tahiyatbushra04@aiub.edu",
+        "course": "biology"
+    },
+    "23": {
+        "username": "Bushra",
+        "password": "1234",
+        "gender": "female",
+        "present_address": "vjfjjf",
+        "phone_number": "0912345678",
+        "email": "tahiyatbushra04@aiub.edu",
+        "course": "biology"
+    },
+    "24": {
+        "username": "Bushra",
+        "password": "1234",
+        "gender": "female",
+        "present_address": "asskd",
+        "phone_number": "0912345678",
+        "email": "tahiyatbushra04@aiub.edu",
+        "course": "higher_math"
+    },
+    "25": {
+        "username": "Bushra",
+        "password": "1234",
+        "gender": "female",
+        "present_address": "asskd",
+        "phone_number": "0912345678",
+        "email": "tahiyatbushra04@aiub.edu",
+        "course": "higher_math"
+    },
+    "26": {
+        "username": "Bushra",
+        "password": "1234",
+        "gender": "female",
+        "present_address": "asskd",
+        "phone_number": "0912345678",
+        "email": "tahiyatbushra04@aiub.edu",
+        "course": "higher_math"
+    },
+    "27": {
+        "username": "Bushra",
+        "password": "1234",
+        "gender": "female",
+        "present_address": "asskd",
+        "phone_number": "0912345678",
+        "email": "tahiyatbushra04@aiub.edu",
+        "course": "higher_math"
+    },
+    "28": {
+        "username": "Bushra",
+        "password": "1234",
+        "gender": "female",
+        "present_address": "asskd",
+        "phone_number": "0912345678",
+        "email": "tahiyatbushra04@aiub.edu",
+        "course": "higher_math"
+    },
+    "29": {
+        "username": "Bushra",
+        "password": "1234",
+        "gender": "female",
+        "present_address": "qwwee",
+        "phone_number": "0912345678",
+        "email": "tahiyatbushra04@aiub.edu",
+        "course": "physics"
+    },
+    "30": {
+        "username": "Bushra",
+        "password": "1234",
+        "gender": "female",
+        "present_address": "qwwee",
+        "phone_number": "0912345678",
+        "email": "tahiyatbushra04@aiub.edu",
+        "course": "physics"
+    },
+    "31": {
+        "username": "Bushra",
+        "password": "$2y$10$ii8tGT3VczrOrjcXcTuo4u6Rov0RvAaGknjcIh5JqzYDuWi7ZUeye",
+        "gender": "female",
+        "email": "tahiyatbushra04@aiub.edu",
+        "present_address": "lkjhg",
+        "phone_number": "0912345678",
+        "course": "physics"
+    },
+    "32": {
+        "username": "Bushra",
+        "password": "$2y$10$.srGLTj0fI0fsYH7nUmFQ.HiyFQcX.uYeavjP.urAvWYrF8pHbV6a",
+        "gender": "female",
+        "email": "tahiyatbushra04@aiub.edu",
+        "present_address": "lkjhg",
+        "phone_number": "0912345678",
+        "course": "physics"
+    }
+}
